@@ -123,9 +123,9 @@ following the youtube
 - cassette black side faces black electrode in the gel tank
 - Place icebag into gel tank; Put the gel tank onto ice (ice fills big tray).
 **Figure 1.** Assembly
-  ![Pasted image 20260805140949.png](figure/Pasted)
+![Pasted image 20260805140949](figure/image20260805140949.png)
 **Figure 2.** gel tank
-  ![Pasted image 20260805141333.png]
+![Pasted image 20260805141333](figure/image20260805141333.png)
 
 3.3. Run the transfer (electric field drives proteins from gel onto the membrane, gel side negative, membrane side positive). 
 	100V and 200mA (constant voltage)

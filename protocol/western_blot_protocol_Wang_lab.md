@@ -121,9 +121,12 @@ following the youtube
 - Membrane closest to the positive electrode.
 - Roll out any air bubbles with a small roller — trapped bubbles cause blank spots on the membrane.
 - cassette black side faces black electrode in the gel tank
-- Place icebag into gel tank; Put the gel tank onto ice (ice fills big tray). 
-![[Pasted image 20260805140949.png|259]]
-![[Pasted image 20260805141333.png|263]]
+- Place icebag into gel tank; Put the gel tank onto ice (ice fills big tray).
+**Figure 1.** Assembly
+  ![Pasted image 20260805140949.png](figure/Pasted)
+**Figure 2.** gel tank
+  ![Pasted image 20260805141333.png]
+
 3.3. Run the transfer (electric field drives proteins from gel onto the membrane, gel side negative, membrane side positive). 
 	100V and 200mA (constant voltage)
 	extend transfer time to ~1.5–2 h (wet transfer) for PTPRB, since large, heavily glycosylated proteins move out of the gel more slowly than typical mid-size proteins; a standard 30–45 min transfer risks leaving most of your target behind in the gel. 

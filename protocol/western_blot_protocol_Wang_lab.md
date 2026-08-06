@@ -172,6 +172,8 @@ following the youtube
 	select Chemiluminescence mode -> adjust capture time(start with 10s) -> once you see band, select cancel -> you can check in gallery (top left)
 	select Colorimetric to take bright field -> select manual (4s) -> once finished, go to gallery to merge with Chemiluminescence image (by selecting both file and select "merge")
 
+	Process images with Image lab software (free)
+
 **Troubleshooting:**
 - High background: increase wash stringency (more washes, longer washes, or add up to 0.1% Tween-20), or dilute the antibody further.
 - Multiple/nonspecific bands: increase antibody dilution, extend blocking time, or confirm antibody specificity against the target 

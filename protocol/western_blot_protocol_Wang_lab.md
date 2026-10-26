@@ -92,7 +92,7 @@ Separate proteins by size (SDS-PAGE) → transfer to PVDF → probe with antibod
 - While the gel runs, prepare **2 L** of transfer buffer (see recipe above 1x transfer buffer)
   
 Protein ladder (# 1610374)
-![Precision Plus Protein Dual Color Standards, 500 µl](https://www.bio-rad.com/sites/default/files/styles/brc_featured_sku_275x275_def/public/webroot/web/images/lsr/products/electrophoresis/sku_view/global/161-0374_view.jpg?itok=qsI92sXO "Precision Plus Protein Dual Color Standards, 500 µl")
+![protein ladder](figure/161-0374_view.png)
 
 ## 3. Transfer to Membrane
 

@@ -92,7 +92,8 @@ Separate proteins by size (SDS-PAGE) → transfer to PVDF → probe with antibod
 - While the gel runs, prepare **2 L** of transfer buffer (see recipe above 1x transfer buffer)
   
 Protein ladder (# 1610374)
-![protein ladder](figure/161-0374_view.png)
+
+![Pasted 161-0374_view](figure/161-0374_view.jpeg)
 
 ## 3. Transfer to Membrane
 
